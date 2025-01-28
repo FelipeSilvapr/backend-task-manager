@@ -18,7 +18,7 @@ Follow these steps to get the project up and running:
 
 ```sh
 git clone https://github.com/FelipeSilvapr/backend-task-manager.git
-cd task-manager
+cd backend-task-manager
 
 chmod +x start.sh
 ./start.sh
