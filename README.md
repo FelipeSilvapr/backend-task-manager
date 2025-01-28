@@ -17,7 +17,7 @@ Follow these steps to get the project up and running:
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/FelipeSilvapr/backend-task-manager.git
 cd task-manager
 
 chmod +x start.sh
